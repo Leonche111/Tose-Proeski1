@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toše Proeski</title>
+</head>
+<body>
+    <section>      
+      <div>
+        <h1 style="font-size: 65px;text-align:center;margin-bottom: 0px;">Toše Proeski</h1>
+        <h3 style="text-align:center; margin-top:0px">1981-2007</h3>
+          </div>
+        <div style="text-align: center; margin-bottom:50px">
+         <a href="https://youtu.be/kMZexU637N4?t=38" target="_blank">
+            <img  src="https://www.pngrepo.com/png/199231/512/play-button.png" alt="play botton"
+            width=70px hight=70px>
+         </a>
+         
+    </section>
+<section style=text-align:center;>
+    <div>
+        <hr style="margin-bottom:50px">
+        <img  src="https://static.wikia.nocookie.net/eurosong-contest/images/d/d5/Tose-Proeski.jpg/revision/latest?cb=20201017003340" alt="Tose Proeski Slika" width="500px">
+    </div>
+    <div><h1 style="text-align:center;margin-top:50px">Short Biography</h1>
+        <p style="text-align:center;font-size: 20px;">Todor <em>"Toše"</em> Proeski was a <strong>Macedonian</strong> multi-genre singer and songwriter.<br>
+             Considered a top act of the local Macedonian and Balkan music scene, Proeski's music was popular across multitude of countries of Southeast Europe.
+              <br>He was dubbed the <em>"Elvis Presley of the Balkans"</em> by BBC News.</p>
+            </div>
+                <div><h1 style="text-align:center;margin-top:50px">Death</h1>
+        <p style="text-align:center;font-size: 20px;">During the early morning of <strong>16 October 2007</strong>, at approximately <strong>6:20 am</strong>, Proeski died in a car accident on the Zagreb–Lipovac highway near Nova Gradiška, Croatia.<br>
+             He was a passenger along with his manager Ljiljana Petrović in a Volkswagen Touareg driven by Georgij Georgijevski.<br>
+              The Touareg crashed into the back of a truck and then into the median barrier, killing Proeski instantly, crushing the third vertebrae of his neck.<br>
+              After his death, the government of the Republic of Macedonia, gave him the title <strong><em>"Honorable citizen of Macedonia"</em></strong><br>
+              On 25 April 2011 <em>"Memorial House Todor Proeski"</em> has been opened in Kruševo.<br>
+               At World Architecture Festival (WAF) 2011, in Barcelona, the building won the award "People's Choice Award, by OpenBuildings" as the most beautiful one in the world. </p>
+            </div>
+            <div>
+                <h1 style="text-align:center;margin-top:50px">Albums</h1>
+                <ul style="text-align: center;
+                list-style-position: inside;
+                font-size: 20px;">
+                    <li>
+                    <a href="https://www.youtube.com/playlist?list=PLMEJH7dz7eUo547cagnKx7MRemWzLhAr6" title="Nekade vo Nojkta"  target="_blank">Nekade vo Nojkta</a>
+                    (1999)
+                     </li>
+                     <li>
+                        <a href="https://www.youtube.com/playlist?list=OLAK5uy_nAlkW8rW7lvwzZW-Lq2UM_250T5VRXU2Y" title="Sinot Božji"  target="_blank">Sinot Božji</a>
+                        (2000)
+                         </li>
+                         <li>
+                            <a href="https://www.youtube.com/playlist?list=OLAK5uy_mtoI3ufw3tFQJTNyzgcFmPGitmKsdjQh4" title="Ako me pogledneš vo oči" target="_blank">Ako me pogledneš vo oči</a>
+                            (2002)
+                             </li>
+                             <li>
+                                <a href="https://www.youtube.com/playlist?list=PLMEJH7dz7eUqTAevYjD_WaQ-USF3fL3Tl" title="Den za nas"  target="_blank">Den za nas</a>
+                                (2004)
+                                 </li>
+                                 <li>
+                                    <a href="https://www.youtube.com/playlist?list=PLMEJH7dz7eUocPgKtlyKuLf_UULwwHuS0" title="Po tebe"  target="_blank">Po tebe</a>
+                                    (2005)
+                                     </li>
+                                     <li>
+                                        <a href="https://www.youtube.com/playlist?list=OLAK5uy_mDgyLU2frCkCYkzLaU8J1kHzv9EM0Dkbg" title="Božilak"  target="_blank">Božilak</a>
+                                        (2006)
+                                         </li>
+                                         <li>
+                                            <a href="https://www.youtube.com/playlist?list=OLAK5uy_mpJb-uKfglBcPcKizCjfKJe5Ls_WMfMrE" title="Igri bez granici"  target="_blank">Igri bez granici</a>
+                                            (2007)
+                                             </li>
+                                             <li>
+                                                <a href="https://www.youtube.com/playlist?list=OLAK5uy_kBiAA67ncItU1E55JTstqK3mwb0LGUszg" title="The Hardest Thing"  target="_blank">The Hardest Thing</a>
+                                                (2009)
+                                                 </li>
+                </ul>
+                <hr style="margin-top:50px">
+            </div>  
+</section>
+<footer style="font-size: 20px; margin-top:100px">
+    Source:<a href="https://en.wikipedia.org/wiki/To%C5%A1e_Proeski">Wikipedia</a>
+    <p>Made by: <em>Leonardo Markovski</em> </p>
+</footer>
+
+</body>
+</html>
